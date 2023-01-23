@@ -41,7 +41,7 @@ export default function Checkout() {
       },
       paymentInfo: {
         setupIntentId: "seti_1LurKoQhnL7ViwYNsyzApnKX",
-        paymentMethodId: "pm_1LurLyQhnL7ViwYNyfE4xMAY",
+        paymentMethodId: "pm_1MRuXaD8SBr38p0KCsUWulrB",
       },
       items: [],
       address: {
