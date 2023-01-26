@@ -66,8 +66,8 @@ export default function Cart({ cart, setCart, open, setOpen }) {
                                 <div className="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
                                   <img
                                     src={
-                                      product.images.images[
-                                        Object.keys(product.images.images)[0]
+                                      product?.images?.images[
+                                        Object.keys(product?.images?.images)[0]
                                       ].medium
                                     }
                                     alt={"Product"}
